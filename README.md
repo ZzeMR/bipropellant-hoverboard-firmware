@@ -111,3 +111,5 @@ Or afterwards: ´git submodule update --init --recursive´
 
 # Any other problems ?
 First [take a look at our wiki](https://github.com/bipropellant/hoverboard-firmware/wiki) and [open issues](https://github.com/bipropellant/hoverboard-firmware/issues), if you still have any problem/question, feel free to [open a new issue](https://github.com/bipropellant/hoverboard-firmware/issues/new)!
+
+MWR
